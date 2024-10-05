@@ -4,3 +4,8 @@
 
 backend/CruddyAPI/bin
 backend/CruddyAPI/obj
+
+frontend/.env
+frontend/.prettierrc
+frontend/.eslintrc.js
+frontend/.eslintignore
