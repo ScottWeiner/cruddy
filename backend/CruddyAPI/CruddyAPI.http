@@ -1,0 +1,6 @@
+@CruddyAPI_HostAddress = http://localhost:5069
+
+GET {{CruddyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

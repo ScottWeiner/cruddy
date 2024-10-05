@@ -1,0 +1,56 @@
+[
+    {
+        "FirstName": "Joe",
+        "LastName": "Blow",
+        "Address": "54 Hawthorne Road",
+        "City": "San Jose",
+        "State": "CA",
+        "Zip": "95127",
+        "Country": "USA"
+    },
+    {
+        "FirstName": "Mike",
+        "LastName": "Roch",
+        "Address": "8603 Walt Whitman Street",
+        "City": "Melrose",
+        "State": "MA",
+        "Zip": "02176",
+        "Country": "USA"
+    },
+    {
+        "FirstName": "Julia",
+        "LastName": "Gulia",
+        "Address": "8464 Sulphur Springs Street",
+        "City": "San Carlos",
+        "State": "CA",
+        "Zip": "94070",
+        "Country": "USA"
+    },
+    {
+        "FirstName": "Lionel",
+        "LastName": "Hutz",
+        "Address": "559 North Birchpond Ave.",
+        "City": "Indianapolis",
+        "State": "IN",
+        "Zip": "46201",
+        "Country": "USA"
+    },
+    {
+        "FirstName": "Action",
+        "LastName": "Jackson",
+        "Address": "75 Colonial Rd.",
+        "City": "Temple Hills",
+        "State": "MD",
+        "Zip": "20748",
+        "Country": "USA"
+    },
+    {
+        "FirstName": "Charles",
+        "LastName": "Bronson",
+        "Address": "9263 N. Inverness Street",
+        "City": "Bronson",
+        "State": "MO",
+        "Zip": "65615",
+        "Country": "USA"
+    }
+]

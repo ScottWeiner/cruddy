@@ -1,0 +1,7 @@
+/.DS_Store
+/bin
+/debug
+
+backend/CruddyAPI/bin
+backend/CruddyAPI/obj
+frontend
